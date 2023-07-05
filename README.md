@@ -1,4 +1,6 @@
-### Hi there 👋
+# Hi there 👋
+
+# I am Daniel Parra Dicillo, a Data Scientist, based in the United Kingdom.
 
 <!--
 **danidicillo/danidicillo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
